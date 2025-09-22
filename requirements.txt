@@ -1,0 +1,30 @@
+# Streamlit
+streamlit==1.26.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# LangChain core
+langchain>=0.1.0,<1.0.0
+
+# LangChain community modules
+langchain-community>=0.0.201
+
+# OpenAI client
+openai>=1.0.0
+
+# Embeddings
+tiktoken>=0.4.0
+
+# Vector stores
+chromadb>=0.3.22
+
+# PDF loader dependencies
+pdfplumber>=0.9.0
+
+# Utilities
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Optional: pretty printing and debugging
+rich>=13.9.4
